@@ -46,7 +46,7 @@ de grid, icones, cards, input group, barra de navegação, botões...
   
   <br>
   
-  <h3> Página visualizada por um mobile:</h3>
+  <h3> Página visualizada por um dispositivo mobile:</h3>
   A página utilizando a resolução de um dispositvo mobile, tende a retirar a imagem para não gerar confusão ao usuário e a alteração do menu.
   <br>
   <br>
