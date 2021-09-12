@@ -1,5 +1,5 @@
 # Spotify
-## Página criada utilizando o modelo da página principal do aplicativo Spotify.
+## Página criada utilizando o modelo da página principal do site Spotify.
 <h1 align="center">
   <img title="Spotify" src="logo.png" />
 </h1>
@@ -18,7 +18,7 @@
 
 ## 🎵 Sobre o projeto
 
-🎵 Spotify foi um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jamilton Damasceno
+🎵 Spotify foi um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jamilton Damasceno.
 
 Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na utilização do bootstrap abordando class, trabalhando com sistema
 de grid, icones, cards, input group, barra de navegação, botões...
@@ -30,7 +30,7 @@ de grid, icones, cards, input group, barra de navegação, botões...
 
   Página Index:
   
-  Nesta página estava localizada as informações principais referente ao aplicativo, com uma barra de navegação com um botão, sendo essa tela responsiva alterando o menu
+  Nesta página está localizada as informações principais referente ao aplicativo, com uma barra de navegação com um botão, sendo essa tela responsiva alterando o menu
   de acordo com tamanho da tela.
   
   <h3>Página visualidada de um desktop:</h3>
